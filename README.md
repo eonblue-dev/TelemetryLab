@@ -28,6 +28,7 @@ The goal of TelemetryLab is to replicate the analytical workflow of a Formula 1 
 ---
 
 ## 🧱 Project Structure
+```text
 TelemetryLab/
 │
 ├── notebooks/        # Data exploration and analysis
@@ -41,7 +42,7 @@ TelemetryLab/
 ├── main.py           # Entry point of the system
 ├── requirements.txt  # Project dependencies
 └── README.md         # Project documentation
-
+```text
 
 ---
 
